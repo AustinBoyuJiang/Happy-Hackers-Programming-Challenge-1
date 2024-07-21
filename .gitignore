@@ -29,4 +29,7 @@
 # Executables
 *.exe
 *.out
+*.in
 *.app
+*.zip
+*.txt
